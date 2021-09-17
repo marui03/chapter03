@@ -7,3 +7,4 @@ echo $count, '個＝';
 echo $price*$count, '円';
 ?>
 <?php require '../footer.php'; ?>
+tesuto tesuto tesutotesuto
